@@ -72,3 +72,20 @@ body {
 .container a:hover {
   color: #45a049;
 }
+
+/*media query*/
+
+
+@media (max-width: 480px) {
+  .container {
+    padding: 20px;
+  }
+
+  .container h2 {
+    font-size: 24px;
+  }
+
+  .container input[type="submit"] {
+    padding: 12px;
+  }
+}
