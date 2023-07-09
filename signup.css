@@ -78,18 +78,3 @@ body {
   }
 
 
-
-  /* Tablets and smaller screens */
-@media (max-width: 768px) {
-  .container {
-    width: 80%; /* Adjust container width for smaller screens */
-  }
-}
-
-/* Mobile devices */
-@media (max-width: 480px) {
-  .container {
-    width: 90%; /* Adjust container width for mobile devices */
-    padding: 20px; /* Adjust container padding for mobile devices */
-  }
-}
