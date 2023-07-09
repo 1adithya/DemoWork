@@ -51,10 +51,8 @@ body {
     margin-right: 5px; /* Adjust the margin to control the gap */
 }
 
-.login-text,
-.signup-text {
-    color: #ffffff;
-    margin: 10px;
+marquee{
+    color: rgb(147, 71, 71);
 }
 
 a{
