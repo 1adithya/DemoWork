@@ -43,7 +43,7 @@ body {
     background-color: #ffa500;
     padding: 10px 15px ;
     border-radius: 5px;
-    font-size: smaller;
+    font-size: 14px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -66,7 +66,14 @@ a{
 
 
 .fields{
-    height: 900px;
+    height: 500px;
     width: 100%;
-    background-color: #3a3636;
+    background-color: #3a3636; 
+}
+
+
+.footer{
+    color: #3a3636;
+    width: small;
+    height: small;
 }
