@@ -80,7 +80,8 @@ footer{
     font-size: small;
     font-family: 'Times New Roman', Times, serif;
     padding: 0 0 0 50px;
-    
+    position: fixed;
+      bottom: 0;
 }
 
 .bottom-footer{
